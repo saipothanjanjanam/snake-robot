@@ -1,0 +1,1 @@
+This Folder consists of Codes regarding snake project
